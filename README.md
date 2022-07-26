@@ -5,11 +5,11 @@ This is the first version of my portfolio website. This site is built using HTML
 
 ## Link to Deployed Website
 
-[Live Link!](https://moetive.github.io/02-Advanced-CSS-Portfolio-/)
+[Live Link!](https://moetive.github.io/-bootcamp-portfolio/)
 
-## Link to Deployed Website
+## Link to Repo
 
-[Repo Link!](https://moetive.github.io/02-Advanced-CSS-Portfolio-/)
+[Repo Link!](https://github.com/Moetive/-bootcamp-portfolio)
  Clicking on a link in the header will navigate your screen to the section of the same name. 
  These projects are temporary placeholders for future creations
 
